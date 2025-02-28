@@ -1,0 +1,15 @@
+C:\Users\erdem\OneDrive\Masaüstü\github\AcunmedyaAkademi\ÖDEVLER\ÖDEV2\ÖDEV2\bin\Debug\net8.0\ÖDEV2.exe
+C:\Users\erdem\OneDrive\Masaüstü\github\AcunmedyaAkademi\ÖDEVLER\ÖDEV2\ÖDEV2\bin\Debug\net8.0\ÖDEV2.deps.json
+C:\Users\erdem\OneDrive\Masaüstü\github\AcunmedyaAkademi\ÖDEVLER\ÖDEV2\ÖDEV2\bin\Debug\net8.0\ÖDEV2.runtimeconfig.json
+C:\Users\erdem\OneDrive\Masaüstü\github\AcunmedyaAkademi\ÖDEVLER\ÖDEV2\ÖDEV2\bin\Debug\net8.0\ÖDEV2.dll
+C:\Users\erdem\OneDrive\Masaüstü\github\AcunmedyaAkademi\ÖDEVLER\ÖDEV2\ÖDEV2\bin\Debug\net8.0\ÖDEV2.pdb
+C:\Users\erdem\OneDrive\Masaüstü\github\AcunmedyaAkademi\ÖDEVLER\ÖDEV2\ÖDEV2\obj\Debug\net8.0\ÖDEV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdem\OneDrive\Masaüstü\github\AcunmedyaAkademi\ÖDEVLER\ÖDEV2\ÖDEV2\obj\Debug\net8.0\ÖDEV2.AssemblyInfoInputs.cache
+C:\Users\erdem\OneDrive\Masaüstü\github\AcunmedyaAkademi\ÖDEVLER\ÖDEV2\ÖDEV2\obj\Debug\net8.0\ÖDEV2.AssemblyInfo.cs
+C:\Users\erdem\OneDrive\Masaüstü\github\AcunmedyaAkademi\ÖDEVLER\ÖDEV2\ÖDEV2\obj\Debug\net8.0\ÖDEV2.csproj.CoreCompileInputs.cache
+C:\Users\erdem\OneDrive\Masaüstü\github\AcunmedyaAkademi\ÖDEVLER\ÖDEV2\ÖDEV2\obj\Debug\net8.0\ÖDEV2.sourcelink.json
+C:\Users\erdem\OneDrive\Masaüstü\github\AcunmedyaAkademi\ÖDEVLER\ÖDEV2\ÖDEV2\obj\Debug\net8.0\ÖDEV2.dll
+C:\Users\erdem\OneDrive\Masaüstü\github\AcunmedyaAkademi\ÖDEVLER\ÖDEV2\ÖDEV2\obj\Debug\net8.0\refint\ÖDEV2.dll
+C:\Users\erdem\OneDrive\Masaüstü\github\AcunmedyaAkademi\ÖDEVLER\ÖDEV2\ÖDEV2\obj\Debug\net8.0\ÖDEV2.pdb
+C:\Users\erdem\OneDrive\Masaüstü\github\AcunmedyaAkademi\ÖDEVLER\ÖDEV2\ÖDEV2\obj\Debug\net8.0\ÖDEV2.genruntimeconfig.cache
+C:\Users\erdem\OneDrive\Masaüstü\github\AcunmedyaAkademi\ÖDEVLER\ÖDEV2\ÖDEV2\obj\Debug\net8.0\ref\ÖDEV2.dll

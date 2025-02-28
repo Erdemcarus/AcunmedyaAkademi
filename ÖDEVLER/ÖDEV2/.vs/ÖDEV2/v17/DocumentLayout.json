@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erdem\\OneDrive\\Masa\u00FCst\u00FC\\github\\AcunmedyaAkademi\\\u00D6DEVLER\\\u00D6DEV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4E9E15-5ECC-45D3-9B18-D8CDDC71D7BE}|\u00D6DEV2\\\u00D6DEV2.csproj|c:\\users\\erdem\\onedrive\\masa\u00FCst\u00FC\\github\\acunmedyaakademi\\\u00F6devler\\\u00F6dev2\\\u00F6dev2\\maa\u015Flar\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4E9E15-5ECC-45D3-9B18-D8CDDC71D7BE}|\u00D6DEV2\\\u00D6DEV2.csproj|solutionrelative:\u00F6dev2\\maa\u015Flar\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4E9E15-5ECC-45D3-9B18-D8CDDC71D7BE}|\u00D6DEV2\\\u00D6DEV2.csproj|c:\\users\\erdem\\onedrive\\masa\u00FCst\u00FC\\github\\acunmedyaakademi\\\u00F6devler\\\u00F6dev2\\\u00F6dev2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4E9E15-5ECC-45D3-9B18-D8CDDC71D7BE}|\u00D6DEV2\\\u00D6DEV2.csproj|solutionrelative:\u00F6dev2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4E9E15-5ECC-45D3-9B18-D8CDDC71D7BE}|\u00D6DEV2\\\u00D6DEV2.csproj|c:\\users\\erdem\\onedrive\\masa\u00FCst\u00FC\\github\\acunmedyaakademi\\\u00F6devler\\\u00F6dev2\\\u00F6dev2\\maa\u015Flar\\genelm\u00FCd\u00FCr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4E9E15-5ECC-45D3-9B18-D8CDDC71D7BE}|\u00D6DEV2\\\u00D6DEV2.csproj|solutionrelative:\u00F6dev2\\maa\u015Flar\\genelm\u00FCd\u00FCr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4E9E15-5ECC-45D3-9B18-D8CDDC71D7BE}|\u00D6DEV2\\\u00D6DEV2.csproj|c:\\users\\erdem\\onedrive\\masa\u00FCst\u00FC\\github\\acunmedyaakademi\\\u00F6devler\\\u00F6dev2\\\u00F6dev2\\maa\u015Flar\\programci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4E9E15-5ECC-45D3-9B18-D8CDDC71D7BE}|\u00D6DEV2\\\u00D6DEV2.csproj|solutionrelative:\u00F6dev2\\maa\u015Flar\\programci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4E9E15-5ECC-45D3-9B18-D8CDDC71D7BE}|\u00D6DEV2\\\u00D6DEV2.csproj|c:\\users\\erdem\\onedrive\\masa\u00FCst\u00FC\\github\\acunmedyaakademi\\\u00F6devler\\\u00F6dev2\\\u00F6dev2\\maa\u015Flar\\stajyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4E9E15-5ECC-45D3-9B18-D8CDDC71D7BE}|\u00D6DEV2\\\u00D6DEV2.csproj|solutionrelative:\u00F6dev2\\maa\u015Flar\\stajyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4E9E15-5ECC-45D3-9B18-D8CDDC71D7BE}|\u00D6DEV2\\\u00D6DEV2.csproj|c:\\users\\erdem\\onedrive\\masa\u00FCst\u00FC\\github\\acunmedyaakademi\\\u00F6devler\\\u00F6dev2\\\u00F6dev2\\maa\u015Flar\\m\u00FCd\u00FCr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4E9E15-5ECC-45D3-9B18-D8CDDC71D7BE}|\u00D6DEV2\\\u00D6DEV2.csproj|solutionrelative:\u00F6dev2\\maa\u015Flar\\m\u00FCd\u00FCr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenelM\u00FCd\u00FCr.cs",
+              "DocumentMoniker": "C:\\Users\\erdem\\OneDrive\\Masa\u00FCst\u00FC\\github\\AcunmedyaAkademi\\\u00D6DEVLER\\\u00D6DEV2\\\u00D6DEV2\\MAA\u015ELAR\\GenelM\u00FCd\u00FCr.cs",
+              "RelativeDocumentMoniker": "\u00D6DEV2\\MAA\u015ELAR\\GenelM\u00FCd\u00FCr.cs",
+              "ToolTip": "C:\\Users\\erdem\\OneDrive\\Masa\u00FCst\u00FC\\github\\AcunmedyaAkademi\\\u00D6DEVLER\\\u00D6DEV2\\\u00D6DEV2\\MAA\u015ELAR\\GenelM\u00FCd\u00FCr.cs",
+              "RelativeToolTip": "\u00D6DEV2\\MAA\u015ELAR\\GenelM\u00FCd\u00FCr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T13:24:05.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Programci.cs",
+              "DocumentMoniker": "C:\\Users\\erdem\\OneDrive\\Masa\u00FCst\u00FC\\github\\AcunmedyaAkademi\\\u00D6DEVLER\\\u00D6DEV2\\\u00D6DEV2\\MAA\u015ELAR\\Programci.cs",
+              "RelativeDocumentMoniker": "\u00D6DEV2\\MAA\u015ELAR\\Programci.cs",
+              "ToolTip": "C:\\Users\\erdem\\OneDrive\\Masa\u00FCst\u00FC\\github\\AcunmedyaAkademi\\\u00D6DEVLER\\\u00D6DEV2\\\u00D6DEV2\\MAA\u015ELAR\\Programci.cs",
+              "RelativeToolTip": "\u00D6DEV2\\MAA\u015ELAR\\Programci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T13:23:33.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stajyer.cs",
+              "DocumentMoniker": "C:\\Users\\erdem\\OneDrive\\Masa\u00FCst\u00FC\\github\\AcunmedyaAkademi\\\u00D6DEVLER\\\u00D6DEV2\\\u00D6DEV2\\MAA\u015ELAR\\Stajyer.cs",
+              "RelativeDocumentMoniker": "\u00D6DEV2\\MAA\u015ELAR\\Stajyer.cs",
+              "ToolTip": "C:\\Users\\erdem\\OneDrive\\Masa\u00FCst\u00FC\\github\\AcunmedyaAkademi\\\u00D6DEVLER\\\u00D6DEV2\\\u00D6DEV2\\MAA\u015ELAR\\Stajyer.cs",
+              "RelativeToolTip": "\u00D6DEV2\\MAA\u015ELAR\\Stajyer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T13:23:20.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "M\u00FCd\u00FCr.cs",
+              "DocumentMoniker": "C:\\Users\\erdem\\OneDrive\\Masa\u00FCst\u00FC\\github\\AcunmedyaAkademi\\\u00D6DEVLER\\\u00D6DEV2\\\u00D6DEV2\\MAA\u015ELAR\\M\u00FCd\u00FCr.cs",
+              "RelativeDocumentMoniker": "\u00D6DEV2\\MAA\u015ELAR\\M\u00FCd\u00FCr.cs",
+              "ToolTip": "C:\\Users\\erdem\\OneDrive\\Masa\u00FCst\u00FC\\github\\AcunmedyaAkademi\\\u00D6DEVLER\\\u00D6DEV2\\\u00D6DEV2\\MAA\u015ELAR\\M\u00FCd\u00FCr.cs",
+              "RelativeToolTip": "\u00D6DEV2\\MAA\u015ELAR\\M\u00FCd\u00FCr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T13:23:08.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calisan.cs",
+              "DocumentMoniker": "C:\\Users\\erdem\\OneDrive\\Masa\u00FCst\u00FC\\github\\AcunmedyaAkademi\\\u00D6DEVLER\\\u00D6DEV2\\\u00D6DEV2\\MAA\u015ELAR\\Calisan.cs",
+              "RelativeDocumentMoniker": "\u00D6DEV2\\MAA\u015ELAR\\Calisan.cs",
+              "ToolTip": "C:\\Users\\erdem\\OneDrive\\Masa\u00FCst\u00FC\\github\\AcunmedyaAkademi\\\u00D6DEVLER\\\u00D6DEV2\\\u00D6DEV2\\MAA\u015ELAR\\Calisan.cs",
+              "RelativeToolTip": "\u00D6DEV2\\MAA\u015ELAR\\Calisan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T13:20:04.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erdem\\OneDrive\\Masa\u00FCst\u00FC\\github\\AcunmedyaAkademi\\\u00D6DEVLER\\\u00D6DEV2\\\u00D6DEV2\\Program.cs",
+              "RelativeDocumentMoniker": "\u00D6DEV2\\Program.cs",
+              "ToolTip": "C:\\Users\\erdem\\OneDrive\\Masa\u00FCst\u00FC\\github\\AcunmedyaAkademi\\\u00D6DEVLER\\\u00D6DEV2\\\u00D6DEV2\\Program.cs",
+              "RelativeToolTip": "\u00D6DEV2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T13:12:53.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
