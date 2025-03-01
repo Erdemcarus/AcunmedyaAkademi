@@ -1,0 +1,38 @@
+Array(dizi), aynı veri tipinden çok sayıda değişken demektir. Arraye ait değişkenler, sıra numarası verilmiş bir liste gibidir. Bu listeye ait olan öğelere de sıra numarasıyla erişilir.
+
+Örneğin 50 öğesi olan bir sonlu dizinin biçimi aşağıdaki gibidir.
+
+d = {d[0], d[1], d[2], d[3], d[4], ….. , d[49]}
+
+Neden Kullanılır ?
+
+Genel olarak bilgisayarlarda işlenen veri sayısı fazladır. Çok fazla sayıda verinin bilgisayara girilmesi, hızlı bir şekilde işlenebilmesi, uygun şekilde saklanabilmesi için Array kullanılır.
+
+Array’ler üç başlık altında incelenebilir.
+
+Tek Boyutlu Arrayler: “Vektör” olarak adlandırılan ve tek satırdan oluşan array sistemidir.
+İki Boyutlu Arrayler: “Matris” olarak adlandırılan ve satır-sütun ilişkisi bulunan array sistemidir.
+Çok Boyutlu Arrayler: Üç veya daha fazla boyutlu arrayler.
+Tüm bu tanımlamalardan sonra herkesin aklına matematikteki diziler mutlaka gelmiştir. Arrayler, matematikteki sonlu dizi kavramına benzeyen bir veri yapısıdır.
+
+[] Operatorü
+
+C# programlamada array bildirimi yapmaya yarar.
+
+
+Bir Array yaratmak, bir değişken yaratmak gibidir. Her değişkenin bir adı, ana bellekte adresi ve o adrese yerleştirilen bir değeri (value) vardır. Değişken adı, ana bellekte ona ayrılan yeri işaret eden bir pointerdır.
+
+
+Array yaratmak, primitif veri tipinden değişken yaratmaya benzer. Ama ondan biraz farklıdır. Burada yapılan iş sınıftan nesne yaratma eylemidir. Primitif veri tipilerinde ancak static anahtar kelimesi kullanıldığı zaman bellekteki stack bölgesinden o değişkene ait yer ayırılırdı. Ancak nesneler yaratılırken işlem biraz daha farklı olur. Bir sınıfa ait değişken bildirimi yapınca bellekte ona yer ayırılmaz. Yalnızca new anahtar kelimesi kullanıldığında stack bölgesinde yer ayırılmış olur.
+
+
+
+
+Bir Array nesnesi yaratmanın üç aşaması vardır.
+
+Array Bildirimi 
+Array Nesnesi Yaratma
+Değer atama
+
+Dilenirse 1. 2. ve 3. aşama tek satırda da yapılabilir.
+
